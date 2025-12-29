@@ -1,3 +1,1 @@
-import React from 'react';
-import { NFTComponent } from './Component';
-export const NFTContainer = () => <NFTComponent />;
+import React from 'react'; import { NFTComponent } from './Component'; export const NFTContainer = () => <NFTComponent />;
