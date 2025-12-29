@@ -1,0 +1,1 @@
+export const initSwap = () => ({ type: 'INIT' });
