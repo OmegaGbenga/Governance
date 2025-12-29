@@ -1,2 +1,1 @@
-import React from 'react';
-export const LiquidityContext = React.createContext();
+import React from 'react'; export const LiquidityCtx = React.createContext();
