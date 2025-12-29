@@ -1,0 +1,2 @@
+# Wallet
+Docs for Wallet
