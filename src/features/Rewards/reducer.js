@@ -1,0 +1,1 @@
+export const rewardsReducer = (state, action) => state;
