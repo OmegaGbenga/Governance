@@ -1,0 +1,1 @@
+export const initStaking = () => ({ type: 'INIT' });
