@@ -1,1 +1,1 @@
-export const KYC_TYPES = {};
+export const TYPES = { name: 'KYC' };
