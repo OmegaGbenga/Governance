@@ -1,0 +1,3 @@
+import React from 'react';
+import { DashboardComponent } from './Component';
+export const DashboardContainer = () => <DashboardComponent />;
