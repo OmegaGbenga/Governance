@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { VotingContext } from './context';
-export const useVoting = () => useContext(VotingContext);
+import { useContext } from 'react'; import { VotingCtx } from './context'; export const useVoting = () => useContext(VotingCtx);
