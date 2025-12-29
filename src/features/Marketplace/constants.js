@@ -1,1 +1,1 @@
-export const DEFAULT_MARKETPLACE_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
