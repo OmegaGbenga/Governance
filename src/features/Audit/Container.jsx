@@ -1,3 +1,1 @@
-import React from 'react';
-import { AuditComponent } from './Component';
-export const AuditContainer = () => <AuditComponent />;
+import React from 'react'; import { AuditComponent } from './Component'; export const AuditContainer = () => <AuditComponent />;
