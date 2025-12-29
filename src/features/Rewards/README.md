@@ -1,0 +1,2 @@
+# Rewards
+Docs for Rewards
