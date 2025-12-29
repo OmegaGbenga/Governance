@@ -1,0 +1,1 @@
+export const formatLaunchpad = (data) => data;
