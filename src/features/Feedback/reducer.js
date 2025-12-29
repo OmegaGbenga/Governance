@@ -1,0 +1,1 @@
+export const feedbackReducer = (state, action) => state;
