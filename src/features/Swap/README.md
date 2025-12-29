@@ -1,3 +1,2 @@
 # Swap
-
-Documentation for Swap module.
+Docs for Swap
