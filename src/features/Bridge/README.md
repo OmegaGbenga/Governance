@@ -1,3 +1,2 @@
 # Bridge
-
-Documentation for Bridge module.
+Docs for Bridge
