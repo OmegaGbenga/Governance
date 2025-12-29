@@ -1,2 +1,1 @@
-import React from 'react';
-export const MarketplaceContext = React.createContext();
+import React from 'react'; export const MarketplaceCtx = React.createContext();
