@@ -1,2 +1,1 @@
-import React from 'react';
-export const BridgeContext = React.createContext();
+import React from 'react'; export const BridgeCtx = React.createContext();
