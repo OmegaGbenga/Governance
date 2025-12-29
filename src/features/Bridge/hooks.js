@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { BridgeContext } from './context';
-export const useBridge = () => useContext(BridgeContext);
+import { useContext } from 'react'; import { BridgeCtx } from './context'; export const useBridge = () => useContext(BridgeCtx);
