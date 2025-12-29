@@ -1,0 +1,1 @@
+export const governanceReducer = (state, action) => state;
