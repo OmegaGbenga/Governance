@@ -1,2 +1,1 @@
-import React from 'react';
-export const VotingContext = React.createContext();
+import React from 'react'; export const VotingCtx = React.createContext();
