@@ -1,0 +1,1 @@
+export const profileReducer = (state, action) => state;
