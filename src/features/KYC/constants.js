@@ -1,1 +1,1 @@
-export const DEFAULT_KYC_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
