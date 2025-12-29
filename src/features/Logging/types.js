@@ -1,1 +1,1 @@
-export const LOGGING_TYPES = {};
+export const TYPES = { name: 'Logging' };
