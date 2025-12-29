@@ -1,0 +1,3 @@
+import React from 'react';
+import { WalletComponent } from './Component';
+export const WalletContainer = () => <WalletComponent />;
