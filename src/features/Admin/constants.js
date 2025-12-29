@@ -1,1 +1,1 @@
-export const DEFAULT_ADMIN_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
