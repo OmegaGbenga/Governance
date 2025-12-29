@@ -1,0 +1,1 @@
+export const kycReducer = (state, action) => state;
