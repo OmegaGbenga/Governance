@@ -1,2 +1,1 @@
-import React from 'react';
-export const SwapContext = React.createContext();
+import React from 'react'; export const SwapCtx = React.createContext();
