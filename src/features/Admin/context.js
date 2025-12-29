@@ -1,2 +1,1 @@
-import React from 'react';
-export const AdminContext = React.createContext();
+import React from 'react'; export const AdminCtx = React.createContext();

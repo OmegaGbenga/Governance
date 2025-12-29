@@ -1,3 +1,2 @@
 # Admin
-
-Documentation for Admin module.
+Docs for Admin

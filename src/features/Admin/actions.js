@@ -1,1 +1,1 @@
-export const initAdmin = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_ADMIN' };

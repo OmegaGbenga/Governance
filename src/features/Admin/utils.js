@@ -1,1 +1,1 @@
-export const formatAdmin = (data) => data;
+export const utils = { format: (x) => x };
