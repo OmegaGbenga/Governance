@@ -1,1 +1,1 @@
-export const initMarketplace = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_MARKETPLACE' };
