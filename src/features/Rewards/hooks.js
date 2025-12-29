@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { RewardsCtx } from './context'; export const useRewards = () => useContext(RewardsCtx);
