@@ -1,3 +1,2 @@
 # Interoperability
-
-Documentation for Interoperability module.
+Docs for Interoperability
