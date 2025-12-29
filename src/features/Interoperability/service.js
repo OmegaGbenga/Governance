@@ -1,1 +1,1 @@
-export const fetchInteroperabilityData = async () => {};
+export const service = { fetch: () => Promise.resolve() };
