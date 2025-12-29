@@ -1,1 +1,1 @@
-test('renders Swap', () => {});
+import React from 'react'; test('Swap comp', () => {});
