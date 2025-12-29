@@ -1,2 +1,1 @@
-import React from 'react';
-export const NFTContext = React.createContext();
+import React from 'react'; export const NFTCtx = React.createContext();
