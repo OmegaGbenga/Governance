@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { TransactionsCtx } from './context'; export const useTransactions = () => useContext(TransactionsCtx);
