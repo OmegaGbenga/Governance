@@ -1,1 +1,1 @@
-export const DEFAULT_NFT_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
