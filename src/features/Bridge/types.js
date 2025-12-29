@@ -1,1 +1,1 @@
-export const BRIDGE_TYPES = {};
+export const TYPES = { name: 'Bridge' };

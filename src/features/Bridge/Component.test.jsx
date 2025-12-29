@@ -1,1 +1,1 @@
-test('renders Bridge', () => {});
+import React from 'react'; test('Bridge comp', () => {});
