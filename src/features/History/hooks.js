@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { HistoryCtx } from './context'; export const useHistory = () => useContext(HistoryCtx);
