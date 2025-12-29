@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { LaunchpadContext } from './context';
-export const useLaunchpad = () => useContext(LaunchpadContext);
+import { useContext } from 'react'; import { LaunchpadCtx } from './context'; export const useLaunchpad = () => useContext(LaunchpadCtx);

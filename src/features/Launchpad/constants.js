@@ -1,1 +1,1 @@
-export const DEFAULT_LAUNCHPAD_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

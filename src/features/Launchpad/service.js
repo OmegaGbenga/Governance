@@ -1,1 +1,1 @@
-export const fetchLaunchpadData = async () => {};
+export const service = { fetch: () => Promise.resolve() };

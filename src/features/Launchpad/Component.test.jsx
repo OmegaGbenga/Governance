@@ -1,1 +1,1 @@
-test('renders Launchpad', () => {});
+import React from 'react'; test('Launchpad comp', () => {});
