@@ -1,3 +1,2 @@
 # Analytics
-
-Documentation for Analytics module.
+Docs for Analytics
