@@ -1,1 +1,1 @@
-export const fetchBridgeData = async () => {};
+export const service = { fetch: () => Promise.resolve() };
