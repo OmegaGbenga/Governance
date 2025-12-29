@@ -1,1 +1,1 @@
-test('renders Voting', () => {});
+import React from 'react'; test('Voting comp', () => {});
