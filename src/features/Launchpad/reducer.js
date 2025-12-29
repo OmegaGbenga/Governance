@@ -1,0 +1,1 @@
+export const launchpadReducer = (state, action) => state;
