@@ -1,1 +1,1 @@
-test('renders Admin', () => {});
+import React from 'react'; test('Admin comp', () => {});
