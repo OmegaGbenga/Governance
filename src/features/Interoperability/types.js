@@ -1,1 +1,1 @@
-export const INTEROPERABILITY_TYPES = {};
+export const TYPES = { name: 'Interoperability' };
