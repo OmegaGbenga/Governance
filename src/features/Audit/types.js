@@ -1,1 +1,1 @@
-export const AUDIT_TYPES = {};
+export const TYPES = { name: 'Audit' };
