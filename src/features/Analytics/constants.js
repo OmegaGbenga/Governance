@@ -1,1 +1,1 @@
-export const DEFAULT_ANALYTICS_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
