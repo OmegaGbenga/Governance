@@ -1,1 +1,1 @@
-export const initCompliance = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_COMPLIANCE' };
