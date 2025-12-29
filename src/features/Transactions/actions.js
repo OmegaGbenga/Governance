@@ -1,0 +1,1 @@
+export const initTransactions = () => ({ type: 'INIT' });
