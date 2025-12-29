@@ -1,3 +1,2 @@
 # Launchpad
-
-Documentation for Launchpad module.
+Docs for Launchpad
