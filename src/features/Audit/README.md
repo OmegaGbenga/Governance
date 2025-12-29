@@ -1,3 +1,2 @@
 # Audit
-
-Documentation for Audit module.
+Docs for Audit
