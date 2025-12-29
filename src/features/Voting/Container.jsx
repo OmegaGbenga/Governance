@@ -1,3 +1,1 @@
-import React from 'react';
-import { VotingComponent } from './Component';
-export const VotingContainer = () => <VotingComponent />;
+import React from 'react'; import { VotingComponent } from './Component'; export const VotingContainer = () => <VotingComponent />;
