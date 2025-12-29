@@ -1,0 +1,3 @@
+import React from 'react';
+import { AdminComponent } from './Component';
+export const AdminContainer = () => <AdminComponent />;
