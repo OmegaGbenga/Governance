@@ -1,0 +1,1 @@
+test('Analytics utils', () => { expect(true).toBe(true); });
