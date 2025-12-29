@@ -1,0 +1,1 @@
+export const historyReducer = (state, action) => state;
