@@ -1,2 +1,1 @@
-import React from 'react';
-export const LaunchpadContext = React.createContext();
+import React from 'react'; export const LaunchpadCtx = React.createContext();
