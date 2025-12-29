@@ -1,1 +1,1 @@
-export const DEFAULT_FARMING_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

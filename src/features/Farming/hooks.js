@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { FarmingContext } from './context';
-export const useFarming = () => useContext(FarmingContext);
+import { useContext } from 'react'; import { FarmingCtx } from './context'; export const useFarming = () => useContext(FarmingCtx);

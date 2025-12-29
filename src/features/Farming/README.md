@@ -1,3 +1,2 @@
 # Farming
-
-Documentation for Farming module.
+Docs for Farming
