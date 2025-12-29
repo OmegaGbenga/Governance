@@ -1,1 +1,1 @@
-export const LIQUIDITY_TYPES = {};
+export const TYPES = { name: 'Liquidity' };
