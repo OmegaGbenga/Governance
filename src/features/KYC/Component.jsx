@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const KYCComponent = () => <div className={styles.container}>KYC</div>;
+import React from 'react'; export const KYCComponent = () => <div>KYC</div>;
