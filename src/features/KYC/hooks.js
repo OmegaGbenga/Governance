@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { KYCContext } from './context';
-export const useKYC = () => useContext(KYCContext);
+import { useContext } from 'react'; import { KYCCtx } from './context'; export const useKYC = () => useContext(KYCCtx);
