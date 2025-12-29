@@ -1,1 +1,1 @@
-export const COMPLIANCE_TYPES = {};
+export const TYPES = { name: 'Compliance' };

@@ -1,1 +1,1 @@
-test('renders Compliance', () => {});
+import React from 'react'; test('Compliance comp', () => {});
