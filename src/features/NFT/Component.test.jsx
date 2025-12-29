@@ -1,1 +1,1 @@
-test('renders NFT', () => {});
+import React from 'react'; test('NFT comp', () => {});
