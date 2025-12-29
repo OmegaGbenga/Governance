@@ -1,2 +1,1 @@
-import React from 'react';
-export const KYCContext = React.createContext();
+import React from 'react'; export const KYCCtx = React.createContext();

@@ -1,1 +1,1 @@
-export const fetchKYCData = async () => {};
+export const service = { fetch: () => Promise.resolve() };

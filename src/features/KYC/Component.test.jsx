@@ -1,1 +1,1 @@
-test('renders KYC', () => {});
+import React from 'react'; test('KYC comp', () => {});

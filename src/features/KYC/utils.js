@@ -1,1 +1,1 @@
-export const formatKYC = (data) => data;
+export const utils = { format: (x) => x };
