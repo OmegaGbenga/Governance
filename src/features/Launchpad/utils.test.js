@@ -1,0 +1,1 @@
+test('Launchpad utils', () => { expect(true).toBe(true); });
