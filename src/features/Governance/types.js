@@ -1,0 +1,1 @@
+export const GOVERNANCE_TYPES = {};
