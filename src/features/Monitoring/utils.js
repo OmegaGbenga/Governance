@@ -1,0 +1,1 @@
+export const formatMonitoring = (data) => data;

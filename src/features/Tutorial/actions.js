@@ -1,0 +1,1 @@
+export const initTutorial = () => ({ type: 'INIT' });

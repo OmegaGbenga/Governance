@@ -1,0 +1,1 @@
+export const helpReducer = (state, action) => state;

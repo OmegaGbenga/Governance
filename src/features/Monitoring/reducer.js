@@ -1,0 +1,1 @@
+export const monitoringReducer = (state, action) => state;

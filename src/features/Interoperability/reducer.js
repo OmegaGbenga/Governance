@@ -1,0 +1,1 @@
+export const interoperabilityReducer = (state, action) => state;

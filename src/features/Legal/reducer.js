@@ -1,0 +1,1 @@
+export const legalReducer = (state, action) => state;

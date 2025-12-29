@@ -1,0 +1,1 @@
+export const initTerms = () => ({ type: 'INIT' });

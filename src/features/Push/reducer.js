@@ -1,0 +1,1 @@
+export const pushReducer = (state, action) => state;

@@ -1,0 +1,3 @@
+import React from 'react';
+import { ReportingComponent } from './Component';
+export const ReportingContainer = () => <ReportingComponent />;

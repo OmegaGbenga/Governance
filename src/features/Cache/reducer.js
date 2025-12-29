@@ -1,0 +1,1 @@
+export const cacheReducer = (state, action) => state;

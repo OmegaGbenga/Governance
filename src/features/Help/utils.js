@@ -1,0 +1,1 @@
+export const formatHelp = (data) => data;

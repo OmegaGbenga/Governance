@@ -1,0 +1,1 @@
+export const formatFAQ = (data) => data;

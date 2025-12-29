@@ -1,0 +1,1 @@
+export const privacyReducer = (state, action) => state;

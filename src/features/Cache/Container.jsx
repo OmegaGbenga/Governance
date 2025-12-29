@@ -1,0 +1,3 @@
+import React from 'react';
+import { CacheComponent } from './Component';
+export const CacheContainer = () => <CacheComponent />;

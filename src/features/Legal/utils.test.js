@@ -1,0 +1,1 @@
+test('Legal utils', () => { expect(true).toBe(true); });

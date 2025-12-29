@@ -1,0 +1,1 @@
+export const votingReducer = (state, action) => state;

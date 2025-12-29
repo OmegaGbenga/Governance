@@ -1,0 +1,1 @@
+export const formatWebsocket = (data) => data;

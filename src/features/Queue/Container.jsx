@@ -1,0 +1,3 @@
+import React from 'react';
+import { QueueComponent } from './Component';
+export const QueueContainer = () => <QueueComponent />;

@@ -1,0 +1,1 @@
+export const DEFAULT_MONITORING_CONFIG = {};

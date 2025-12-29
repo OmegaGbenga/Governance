@@ -1,0 +1,1 @@
+export const onboardingReducer = (state, action) => state;

@@ -1,0 +1,1 @@
+export const DEFAULT_FARMING_CONFIG = {};

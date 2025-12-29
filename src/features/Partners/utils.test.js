@@ -1,0 +1,1 @@
+test('Partners utils', () => { expect(true).toBe(true); });

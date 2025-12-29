@@ -1,0 +1,1 @@
+test('NFT utils', () => { expect(true).toBe(true); });

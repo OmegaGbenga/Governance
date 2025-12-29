@@ -1,0 +1,1 @@
+export const termsReducer = (state, action) => state;

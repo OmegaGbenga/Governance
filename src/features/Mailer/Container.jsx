@@ -1,0 +1,3 @@
+import React from 'react';
+import { MailerComponent } from './Component';
+export const MailerContainer = () => <MailerComponent />;

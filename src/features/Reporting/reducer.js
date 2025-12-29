@@ -1,0 +1,1 @@
+export const reportingReducer = (state, action) => state;

@@ -1,0 +1,1 @@
+export const FARMING_TYPES = {};

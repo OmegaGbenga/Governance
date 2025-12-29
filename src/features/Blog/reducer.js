@@ -1,0 +1,1 @@
+export const blogReducer = (state, action) => state;

@@ -1,0 +1,1 @@
+export const complianceReducer = (state, action) => state;

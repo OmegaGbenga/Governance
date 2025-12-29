@@ -1,0 +1,1 @@
+export const smsReducer = (state, action) => state;

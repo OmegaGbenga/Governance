@@ -1,0 +1,3 @@
+import React from 'react';
+import { TutorialComponent } from './Component';
+export const TutorialContainer = () => <TutorialComponent />;

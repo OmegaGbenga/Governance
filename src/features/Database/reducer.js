@@ -1,0 +1,1 @@
+export const databaseReducer = (state, action) => state;

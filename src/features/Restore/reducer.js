@@ -1,0 +1,1 @@
+export const restoreReducer = (state, action) => state;

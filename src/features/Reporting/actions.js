@@ -1,0 +1,1 @@
+export const initReporting = () => ({ type: 'INIT' });

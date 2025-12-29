@@ -1,0 +1,1 @@
+export const faqReducer = (state, action) => state;

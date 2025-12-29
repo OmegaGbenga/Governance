@@ -1,0 +1,3 @@
+import React from 'react';
+import { MonitoringComponent } from './Component';
+export const MonitoringContainer = () => <MonitoringComponent />;

@@ -1,0 +1,1 @@
+export const graphqlReducer = (state, action) => state;

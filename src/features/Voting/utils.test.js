@@ -1,0 +1,1 @@
+test('Voting utils', () => { expect(true).toBe(true); });

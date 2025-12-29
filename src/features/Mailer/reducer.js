@@ -1,0 +1,1 @@
+export const mailerReducer = (state, action) => state;

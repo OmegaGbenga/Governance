@@ -1,0 +1,1 @@
+export const initTeam = () => ({ type: 'INIT' });

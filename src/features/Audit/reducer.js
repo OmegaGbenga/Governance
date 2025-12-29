@@ -1,0 +1,1 @@
+export const auditReducer = (state, action) => state;

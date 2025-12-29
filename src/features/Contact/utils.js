@@ -1,0 +1,1 @@
+export const formatContact = (data) => data;

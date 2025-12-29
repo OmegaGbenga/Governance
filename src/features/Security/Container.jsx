@@ -1,0 +1,3 @@
+import React from 'react';
+import { SecurityComponent } from './Component';
+export const SecurityContainer = () => <SecurityComponent />;

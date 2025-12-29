@@ -1,0 +1,1 @@
+export const formatSms = (data) => data;

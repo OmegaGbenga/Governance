@@ -1,0 +1,1 @@
+export const adminReducer = (state, action) => state;

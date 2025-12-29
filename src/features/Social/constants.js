@@ -1,0 +1,1 @@
+export const DEFAULT_SOCIAL_CONFIG = {};

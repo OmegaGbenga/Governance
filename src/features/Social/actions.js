@@ -1,0 +1,1 @@
+export const initSocial = () => ({ type: 'INIT' });

@@ -1,0 +1,1 @@
+export const teamReducer = (state, action) => state;

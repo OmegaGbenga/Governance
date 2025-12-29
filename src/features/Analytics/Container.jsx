@@ -1,0 +1,3 @@
+import React from 'react';
+import { AnalyticsComponent } from './Component';
+export const AnalyticsContainer = () => <AnalyticsComponent />;

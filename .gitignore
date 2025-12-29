@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.DS_Store
+coverage/
+.clarity/
+.clarinet/
+settings/
+tmp/
+*.log

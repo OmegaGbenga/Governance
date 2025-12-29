@@ -1,0 +1,1 @@
+export const initTax = () => ({ type: 'INIT' });

@@ -1,0 +1,1 @@
+export const DEFAULT_TERMS_CONFIG = {};

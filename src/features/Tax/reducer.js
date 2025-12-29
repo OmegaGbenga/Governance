@@ -1,0 +1,1 @@
+export const taxReducer = (state, action) => state;

@@ -1,0 +1,1 @@
+export const securityReducer = (state, action) => state;

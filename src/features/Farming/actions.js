@@ -1,0 +1,1 @@
+export const initFarming = () => ({ type: 'INIT' });

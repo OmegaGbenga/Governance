@@ -1,0 +1,1 @@
+test('Mailer utils', () => { expect(true).toBe(true); });

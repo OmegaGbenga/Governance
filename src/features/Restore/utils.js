@@ -1,0 +1,1 @@
+export const formatRestore = (data) => data;
