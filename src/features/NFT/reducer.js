@@ -1,0 +1,1 @@
+export const nftReducer = (state, action) => state;
