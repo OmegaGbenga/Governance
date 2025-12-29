@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const LaunchpadComponent = () => <div className={styles.container}>Launchpad</div>;
+import React from 'react'; export const LaunchpadComponent = () => <div>Launchpad</div>;
