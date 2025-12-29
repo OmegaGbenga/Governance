@@ -1,1 +1,1 @@
-export const initKYC = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_KYC' };
