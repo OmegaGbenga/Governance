@@ -1,0 +1,1 @@
+export const jobsReducer = (state, action) => state;
