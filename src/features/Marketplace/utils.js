@@ -1,1 +1,1 @@
-export const formatMarketplace = (data) => data;
+export const utils = { format: (x) => x };
