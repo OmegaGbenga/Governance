@@ -1,1 +1,1 @@
-export const DEFAULT_SWAP_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
