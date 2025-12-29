@@ -1,0 +1,1 @@
+export const DEFAULT_MARKETPLACE_CONFIG = {};
