@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { DashboardCtx } from './context'; export const useDashboard = () => useContext(DashboardCtx);
