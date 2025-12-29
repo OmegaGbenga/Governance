@@ -1,0 +1,1 @@
+export const transactionsReducer = (state, action) => state;
