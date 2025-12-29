@@ -1,0 +1,1 @@
+import React from 'react'; export const RewardsCtx = React.createContext();
