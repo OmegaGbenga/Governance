@@ -1,0 +1,1 @@
+export const swapReducer = (state, action) => state;
