@@ -1,1 +1,1 @@
-export const MARKETPLACE_TYPES = {};
+export const TYPES = { name: 'Marketplace' };
