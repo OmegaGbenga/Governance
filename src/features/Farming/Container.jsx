@@ -1,0 +1,3 @@
+import React from 'react';
+import { FarmingComponent } from './Component';
+export const FarmingContainer = () => <FarmingComponent />;
