@@ -1,0 +1,1 @@
+export const initSecurity = () => ({ type: 'INIT' });
