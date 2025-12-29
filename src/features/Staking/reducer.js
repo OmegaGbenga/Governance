@@ -1,0 +1,1 @@
+export const stakingReducer = (state, action) => state;
