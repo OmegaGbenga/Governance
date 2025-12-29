@@ -1,0 +1,1 @@
+export const marketplaceReducer = (state, action) => state;
