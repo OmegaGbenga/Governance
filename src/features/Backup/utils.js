@@ -1,0 +1,1 @@
+export const formatBackup = (data) => data;
