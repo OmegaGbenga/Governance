@@ -1,3 +1,2 @@
 # KYC
-
-Documentation for KYC module.
+Docs for KYC
