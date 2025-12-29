@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { ProfileCtx } from './context'; export const useProfile = () => useContext(ProfileCtx);
