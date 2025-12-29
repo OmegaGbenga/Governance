@@ -1,1 +1,1 @@
-export const SWAP_TYPES = {};
+export const TYPES = { name: 'Swap' };
