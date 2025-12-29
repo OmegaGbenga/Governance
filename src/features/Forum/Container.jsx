@@ -1,0 +1,3 @@
+import React from 'react';
+import { ForumComponent } from './Component';
+export const ForumContainer = () => <ForumComponent />;
