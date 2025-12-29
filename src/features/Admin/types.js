@@ -1,1 +1,1 @@
-export const ADMIN_TYPES = {};
+export const TYPES = { name: 'Admin' };
