@@ -1,0 +1,1 @@
+export const initInteroperability = () => ({ type: 'INIT' });
