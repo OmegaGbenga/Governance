@@ -1,2 +1,1 @@
-import React from 'react';
-export const SecurityContext = React.createContext();
+import React from 'react'; export const SecurityCtx = React.createContext();
