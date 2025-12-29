@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { SecurityContext } from './context';
-export const useSecurity = () => useContext(SecurityContext);
+import { useContext } from 'react'; import { SecurityCtx } from './context'; export const useSecurity = () => useContext(SecurityCtx);
