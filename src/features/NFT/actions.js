@@ -1,1 +1,1 @@
-export const initNFT = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_NFT' };
