@@ -1,0 +1,1 @@
+export const DEFAULT_GOVERNANCE_CONFIG = {};
