@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { LoggingContext } from './context';
-export const useLogging = () => useContext(LoggingContext);
+import { useContext } from 'react'; import { LoggingCtx } from './context'; export const useLogging = () => useContext(LoggingCtx);
