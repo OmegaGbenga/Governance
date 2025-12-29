@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { LiquidityContext } from './context';
-export const useLiquidity = () => useContext(LiquidityContext);
+import { useContext } from 'react'; import { LiquidityCtx } from './context'; export const useLiquidity = () => useContext(LiquidityCtx);
