@@ -1,0 +1,1 @@
+export const initForum = () => ({ type: 'INIT' });
