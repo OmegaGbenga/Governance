@@ -1,0 +1,1 @@
+export const walletReducer = (state, action) => state;
