@@ -1,0 +1,1 @@
+export const initHelp = () => ({ type: 'INIT' });
