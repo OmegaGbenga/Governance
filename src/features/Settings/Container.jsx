@@ -1,0 +1,1 @@
+import React from 'react'; import { SettingsComponent } from './Component'; export const SettingsContainer = () => <SettingsComponent />;

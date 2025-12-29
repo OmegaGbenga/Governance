@@ -1,0 +1,1 @@
+import React from 'react'; test('Settings comp', () => {});
