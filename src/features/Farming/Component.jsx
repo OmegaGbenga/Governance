@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const FarmingComponent = () => <div className={styles.container}>Farming</div>;
+import React from 'react'; export const FarmingComponent = () => <div>Farming</div>;
