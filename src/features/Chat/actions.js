@@ -1,0 +1,1 @@
+export const initChat = () => ({ type: 'INIT' });
