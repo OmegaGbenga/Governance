@@ -1,1 +1,1 @@
-export const DEFAULT_AUDIT_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
