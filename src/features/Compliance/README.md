@@ -1,3 +1,2 @@
 # Compliance
-
-Documentation for Compliance module.
+Docs for Compliance
