@@ -1,0 +1,1 @@
+export const analyticsReducer = (state, action) => state;
