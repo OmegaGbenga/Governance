@@ -1,0 +1,3 @@
+import React from 'react';
+import { NotificationsComponent } from './Component';
+export const NotificationsContainer = () => <NotificationsComponent />;
