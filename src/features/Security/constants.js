@@ -1,0 +1,1 @@
+export const DEFAULT_SECURITY_CONFIG = {};
