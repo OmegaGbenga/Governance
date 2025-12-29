@@ -1,0 +1,1 @@
+export const initAuth = () => ({ type: 'INIT' });
