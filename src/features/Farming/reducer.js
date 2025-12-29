@@ -1,0 +1,1 @@
+export const farmingReducer = (state, action) => state;
