@@ -1,1 +1,1 @@
-export const initLaunchpad = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_LAUNCHPAD' };
