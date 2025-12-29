@@ -1,1 +1,1 @@
-export const auditReducer = (state, action) => state;
+export const reducer = (state = {}, action) => { return state; };
