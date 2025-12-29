@@ -1,1 +1,1 @@
-export const bridgeReducer = (state, action) => state;
+export const reducer = (state = {}, action) => { return state; };
