@@ -1,2 +1,1 @@
-import React from 'react';
-export const AnalyticsContext = React.createContext();
+import React from 'react'; export const AnalyticsCtx = React.createContext();
