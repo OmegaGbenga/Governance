@@ -1,1 +1,1 @@
-test('renders Liquidity', () => {});
+import React from 'react'; test('Liquidity comp', () => {});
