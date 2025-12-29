@@ -1,1 +1,1 @@
-export const LAUNCHPAD_TYPES = {};
+export const TYPES = { name: 'Launchpad' };
