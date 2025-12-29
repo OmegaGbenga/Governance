@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { AnalyticsContext } from './context';
-export const useAnalytics = () => useContext(AnalyticsContext);
+import { useContext } from 'react'; import { AnalyticsCtx } from './context'; export const useAnalytics = () => useContext(AnalyticsCtx);
