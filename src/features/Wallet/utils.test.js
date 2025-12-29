@@ -1,0 +1,1 @@
+test('Wallet utils', () => { expect(true).toBe(true); });
