@@ -1,3 +1,2 @@
 # Graphql
-
-Documentation for Graphql module.
+Docs for Graphql
