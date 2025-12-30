@@ -1,2 +1,1 @@
-import React from 'react';
-export const FAQContext = React.createContext();
+import React from 'react'; export const FAQCtx = React.createContext();
