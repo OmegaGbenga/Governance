@@ -1,0 +1,1 @@
+import React from 'react'; export const SmsComponent = () => <div>Sms</div>;
