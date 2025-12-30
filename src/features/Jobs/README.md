@@ -1,3 +1,2 @@
 # Jobs
-
-Documentation for Jobs module.
+Docs for Jobs
