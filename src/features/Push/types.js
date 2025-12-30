@@ -1,1 +1,1 @@
-export const PUSH_TYPES = {};
+export const TYPES = { name: 'Push' };
