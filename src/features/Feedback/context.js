@@ -1,2 +1,1 @@
-import React from 'react';
-export const FeedbackContext = React.createContext();
+import React from 'react'; export const FeedbackCtx = React.createContext();

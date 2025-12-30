@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { FeedbackContext } from './context';
-export const useFeedback = () => useContext(FeedbackContext);
+import { useContext } from 'react'; import { FeedbackCtx } from './context'; export const useFeedback = () => useContext(FeedbackCtx);

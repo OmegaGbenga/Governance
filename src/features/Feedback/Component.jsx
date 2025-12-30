@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const FeedbackComponent = () => <div className={styles.container}>Feedback</div>;
+import React from 'react'; export const FeedbackComponent = () => <div>Feedback</div>;

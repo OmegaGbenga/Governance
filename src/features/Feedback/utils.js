@@ -1,1 +1,1 @@
-export const formatFeedback = (data) => data;
+export const utils = { format: (x) => x };

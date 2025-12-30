@@ -1,1 +1,1 @@
-export const initFeedback = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_FEEDBACK' };
