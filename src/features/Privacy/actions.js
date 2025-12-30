@@ -1,1 +1,1 @@
-export const initPrivacy = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_PRIVACY' };
