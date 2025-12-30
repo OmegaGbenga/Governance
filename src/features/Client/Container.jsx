@@ -1,0 +1,1 @@
+import React from 'react'; import { ClientComponent } from './Component'; export const ClientContainer = () => <ClientComponent />;
