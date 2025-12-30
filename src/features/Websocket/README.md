@@ -1,3 +1,2 @@
 # Websocket
-
-Documentation for Websocket module.
+Docs for Websocket
