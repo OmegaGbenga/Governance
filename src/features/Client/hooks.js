@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { ClientCtx } from './context'; export const useClient = () => useContext(ClientCtx);

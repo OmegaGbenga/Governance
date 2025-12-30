@@ -1,0 +1,1 @@
+export const actions = { init: 'INIT_CLIENT' };
