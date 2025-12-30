@@ -1,0 +1,1 @@
+import React from 'react'; export const ServerComponent = () => <div>Server</div>;

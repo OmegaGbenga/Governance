@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { ServerCtx } from './context'; export const useServer = () => useContext(ServerCtx);
