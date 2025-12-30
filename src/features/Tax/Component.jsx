@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const TaxComponent = () => <div className={styles.container}>Tax</div>;
+import React from 'react'; export const TaxComponent = () => <div>Tax</div>;
