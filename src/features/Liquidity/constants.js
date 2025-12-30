@@ -1,1 +1,1 @@
-export const DEFAULT_LIQUIDITY_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

@@ -1,1 +1,1 @@
-export const initLiquidity = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_LIQUIDITY' };

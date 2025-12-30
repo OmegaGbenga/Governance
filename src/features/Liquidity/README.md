@@ -1,3 +1,2 @@
 # Liquidity
-
-Documentation for Liquidity module.
+Docs for Liquidity
