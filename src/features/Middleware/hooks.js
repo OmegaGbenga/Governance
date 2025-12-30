@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { MiddlewareCtx } from './context'; export const useMiddleware = () => useContext(MiddlewareCtx);
