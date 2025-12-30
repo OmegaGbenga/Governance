@@ -1,1 +1,1 @@
-export const PRIVACY_TYPES = {};
+export const TYPES = { name: 'Privacy' };
