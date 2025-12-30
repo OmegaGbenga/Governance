@@ -1,0 +1,1 @@
+import React from 'react'; export const ModelComponent = () => <div>Model</div>;
