@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { TaxContext } from './context';
-export const useTax = () => useContext(TaxContext);
+import { useContext } from 'react'; import { TaxCtx } from './context'; export const useTax = () => useContext(TaxCtx);
