@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { QueueContext } from './context';
-export const useQueue = () => useContext(QueueContext);
+import { useContext } from 'react'; import { QueueCtx } from './context'; export const useQueue = () => useContext(QueueCtx);

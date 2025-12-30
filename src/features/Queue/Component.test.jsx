@@ -1,1 +1,1 @@
-test('renders Queue', () => {});
+import React from 'react'; test('Queue comp', () => {});

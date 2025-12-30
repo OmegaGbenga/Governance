@@ -1,3 +1,2 @@
 # Queue
-
-Documentation for Queue module.
+Docs for Queue
