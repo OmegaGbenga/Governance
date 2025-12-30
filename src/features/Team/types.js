@@ -1,1 +1,1 @@
-export const TEAM_TYPES = {};
+export const TYPES = { name: 'Team' };
