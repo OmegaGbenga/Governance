@@ -1,2 +1,1 @@
-import React from 'react';
-export const ChatContext = React.createContext();
+import React from 'react'; export const ChatCtx = React.createContext();
