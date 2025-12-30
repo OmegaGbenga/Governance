@@ -1,1 +1,1 @@
-export const LEGAL_TYPES = {};
+export const TYPES = { name: 'Legal' };
