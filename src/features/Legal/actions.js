@@ -1,1 +1,1 @@
-export const initLegal = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_LEGAL' };

@@ -1,1 +1,1 @@
-export const formatLegal = (data) => data;
+export const utils = { format: (x) => x };
