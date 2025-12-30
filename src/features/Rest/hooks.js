@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { RestCtx } from './context'; export const useRest = () => useContext(RestCtx);

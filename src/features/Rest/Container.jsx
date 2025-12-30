@@ -1,3 +1,1 @@
-import React from 'react';
-import { RestComponent } from './Component';
-export const RestContainer = () => <RestComponent />;
+import React from 'react'; import { RestComponent } from './Component'; export const RestContainer = () => <RestComponent />;

@@ -1,0 +1,1 @@
+test('Rest utils', () => { expect(true).toBe(true); });

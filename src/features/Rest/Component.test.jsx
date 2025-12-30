@@ -1,1 +1,1 @@
-test('renders Rest', () => {});
+import React from 'react'; test('Rest comp', () => {});
