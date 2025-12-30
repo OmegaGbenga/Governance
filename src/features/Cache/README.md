@@ -1,3 +1,2 @@
 # Cache
-
-Documentation for Cache module.
+Docs for Cache
