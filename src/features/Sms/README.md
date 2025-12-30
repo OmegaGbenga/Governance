@@ -1,3 +1,2 @@
 # Sms
-
-Documentation for Sms module.
+Docs for Sms
