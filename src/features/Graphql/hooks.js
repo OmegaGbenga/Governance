@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { GraphqlContext } from './context';
-export const useGraphql = () => useContext(GraphqlContext);
+import { useContext } from 'react'; import { GraphqlCtx } from './context'; export const useGraphql = () => useContext(GraphqlCtx);
