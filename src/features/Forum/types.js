@@ -1,1 +1,1 @@
-export const FORUM_TYPES = {};
+export const TYPES = { name: 'Forum' };

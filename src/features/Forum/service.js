@@ -1,1 +1,1 @@
-export const fetchForumData = async () => {};
+export const service = { fetch: () => Promise.resolve() };

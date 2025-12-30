@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { ForumContext } from './context';
-export const useForum = () => useContext(ForumContext);
+import { useContext } from 'react'; import { ForumCtx } from './context'; export const useForum = () => useContext(ForumCtx);
