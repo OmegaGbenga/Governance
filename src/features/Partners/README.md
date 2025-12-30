@@ -1,3 +1,2 @@
 # Partners
-
-Documentation for Partners module.
+Docs for Partners
