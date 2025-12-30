@@ -1,1 +1,1 @@
-export const DEFAULT_TAX_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

@@ -1,3 +1,2 @@
 # Tax
-
-Documentation for Tax module.
+Docs for Tax
