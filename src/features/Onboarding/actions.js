@@ -1,1 +1,1 @@
-export const initOnboarding = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_ONBOARDING' };

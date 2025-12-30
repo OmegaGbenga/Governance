@@ -1,1 +1,1 @@
-export const ONBOARDING_TYPES = {};
+export const TYPES = { name: 'Onboarding' };
