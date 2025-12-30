@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { ApiCtx } from './context'; export const useApi = () => useContext(ApiCtx);
