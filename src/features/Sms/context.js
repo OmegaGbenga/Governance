@@ -1,2 +1,1 @@
-import React from 'react';
-export const SmsContext = React.createContext();
+import React from 'react'; export const SmsCtx = React.createContext();

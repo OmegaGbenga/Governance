@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { SmsCtx } from './context'; export const useSms = () => useContext(SmsCtx);
