@@ -1,2 +1,1 @@
-import React from 'react';
-export const RestContext = React.createContext();
+import React from 'react'; export const RestCtx = React.createContext();
