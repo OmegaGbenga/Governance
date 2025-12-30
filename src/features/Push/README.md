@@ -1,3 +1,2 @@
 # Push
-
-Documentation for Push module.
+Docs for Push
