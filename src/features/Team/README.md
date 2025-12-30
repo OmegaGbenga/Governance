@@ -1,3 +1,2 @@
 # Team
-
-Documentation for Team module.
+Docs for Team
