@@ -1,3 +1,2 @@
 # Legal
-
-Documentation for Legal module.
+Docs for Legal
