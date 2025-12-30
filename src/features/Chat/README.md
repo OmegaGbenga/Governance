@@ -1,3 +1,2 @@
 # Chat
-
-Documentation for Chat module.
+Docs for Chat

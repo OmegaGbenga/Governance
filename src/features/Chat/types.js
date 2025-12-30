@@ -1,1 +1,1 @@
-export const CHAT_TYPES = {};
+export const TYPES = { name: 'Chat' };

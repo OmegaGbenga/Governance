@@ -1,1 +1,1 @@
-export const DEFAULT_CHAT_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
