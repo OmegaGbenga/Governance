@@ -1,1 +1,1 @@
-export const DEFAULT_FEEDBACK_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
