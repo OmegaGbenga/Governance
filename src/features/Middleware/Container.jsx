@@ -1,0 +1,1 @@
+import React from 'react'; import { MiddlewareComponent } from './Component'; export const MiddlewareContainer = () => <MiddlewareComponent />;
