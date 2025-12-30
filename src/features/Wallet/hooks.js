@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { WalletCtx } from './context'; export const useWallet = () => useContext(WalletCtx);
