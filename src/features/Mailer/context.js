@@ -1,2 +1,1 @@
-import React from 'react';
-export const MailerContext = React.createContext();
+import React from 'react'; export const MailerCtx = React.createContext();
