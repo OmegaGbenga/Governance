@@ -1,3 +1,1 @@
-import React from 'react';
-import { ForumComponent } from './Component';
-export const ForumContainer = () => <ForumComponent />;
+import React from 'react'; import { ForumComponent } from './Component'; export const ForumContainer = () => <ForumComponent />;
