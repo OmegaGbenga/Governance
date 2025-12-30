@@ -1,1 +1,1 @@
-test('renders Tutorial', () => {});
+import React from 'react'; test('Tutorial comp', () => {});
