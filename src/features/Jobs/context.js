@@ -1,2 +1,1 @@
-import React from 'react';
-export const JobsContext = React.createContext();
+import React from 'react'; export const JobsCtx = React.createContext();
