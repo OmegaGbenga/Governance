@@ -1,0 +1,1 @@
+import React from 'react'; import { InteroperabilityComponent } from './Component'; export const InteroperabilityContainer = () => <InteroperabilityComponent />;

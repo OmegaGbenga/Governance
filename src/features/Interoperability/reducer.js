@@ -1,1 +1,1 @@
-export const interoperabilityReducer = (state, action) => state;
+export const reducer = (state = {}, action) => { return state; };

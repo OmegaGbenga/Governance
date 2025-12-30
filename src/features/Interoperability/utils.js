@@ -1,1 +1,1 @@
-export const formatInteroperability = (data) => data;
+export const utils = { format: (x) => x };
