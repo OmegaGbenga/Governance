@@ -1,2 +1,1 @@
-import React from 'react';
-export const OnboardingContext = React.createContext();
+import React from 'react'; export const OnboardingCtx = React.createContext();
