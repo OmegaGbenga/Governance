@@ -1,2 +1,1 @@
-import React from 'react';
-export const SchedulerContext = React.createContext();
+import React from 'react'; export const SchedulerCtx = React.createContext();

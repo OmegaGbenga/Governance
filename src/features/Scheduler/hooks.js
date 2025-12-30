@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { SchedulerContext } from './context';
-export const useScheduler = () => useContext(SchedulerContext);
+import { useContext } from 'react'; import { SchedulerCtx } from './context'; export const useScheduler = () => useContext(SchedulerCtx);

@@ -1,1 +1,1 @@
-test('renders Scheduler', () => {});
+import React from 'react'; test('Scheduler comp', () => {});
