@@ -1,1 +1,1 @@
-test('renders Tax', () => {});
+import React from 'react'; test('Tax comp', () => {});
