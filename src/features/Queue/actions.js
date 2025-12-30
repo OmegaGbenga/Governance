@@ -1,1 +1,1 @@
-export const initQueue = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_QUEUE' };
