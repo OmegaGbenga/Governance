@@ -1,1 +1,1 @@
-export const BACKUP_TYPES = {};
+export const TYPES = { name: 'Backup' };
