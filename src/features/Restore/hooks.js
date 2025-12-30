@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { RestoreContext } from './context';
-export const useRestore = () => useContext(RestoreContext);
+import { useContext } from 'react'; import { RestoreCtx } from './context'; export const useRestore = () => useContext(RestoreCtx);

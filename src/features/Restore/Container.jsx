@@ -1,3 +1,1 @@
-import React from 'react';
-import { RestoreComponent } from './Component';
-export const RestoreContainer = () => <RestoreComponent />;
+import React from 'react'; import { RestoreComponent } from './Component'; export const RestoreContainer = () => <RestoreComponent />;
