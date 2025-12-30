@@ -1,3 +1,2 @@
 # Onboarding
-
-Documentation for Onboarding module.
+Docs for Onboarding
