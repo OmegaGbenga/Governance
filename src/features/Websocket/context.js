@@ -1,2 +1,1 @@
-import React from 'react';
-export const WebsocketContext = React.createContext();
+import React from 'react'; export const WebsocketCtx = React.createContext();
