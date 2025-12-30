@@ -1,1 +1,1 @@
-test('renders Marketplace', () => {});
+import React from 'react'; test('Marketplace comp', () => {});

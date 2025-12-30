@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { MarketplaceContext } from './context';
-export const useMarketplace = () => useContext(MarketplaceContext);
+import { useContext } from 'react'; import { MarketplaceCtx } from './context'; export const useMarketplace = () => useContext(MarketplaceCtx);

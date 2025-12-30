@@ -1,1 +1,1 @@
-export const fetchMarketplaceData = async () => {};
+export const service = { fetch: () => Promise.resolve() };

@@ -1,3 +1,2 @@
 # Marketplace
-
-Documentation for Marketplace module.
+Docs for Marketplace
