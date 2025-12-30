@@ -1,2 +1,1 @@
-import React from 'react';
-export const BackupContext = React.createContext();
+import React from 'react'; export const BackupCtx = React.createContext();
