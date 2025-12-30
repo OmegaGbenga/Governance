@@ -1,1 +1,1 @@
-export const formatOnboarding = (data) => data;
+export const utils = { format: (x) => x };
