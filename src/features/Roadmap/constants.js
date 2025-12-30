@@ -1,1 +1,1 @@
-export const DEFAULT_ROADMAP_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
