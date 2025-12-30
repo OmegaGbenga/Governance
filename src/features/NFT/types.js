@@ -1,1 +1,1 @@
-export const NFT_TYPES = {};
+export const TYPES = { name: 'NFT' };

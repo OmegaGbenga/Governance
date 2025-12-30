@@ -1,3 +1,2 @@
 # NFT
-
-Documentation for NFT module.
+Docs for NFT

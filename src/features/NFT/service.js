@@ -1,1 +1,1 @@
-export const fetchNFTData = async () => {};
+export const service = { fetch: () => Promise.resolve() };

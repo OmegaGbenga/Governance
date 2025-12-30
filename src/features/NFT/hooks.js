@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { NFTContext } from './context';
-export const useNFT = () => useContext(NFTContext);
+import { useContext } from 'react'; import { NFTCtx } from './context'; export const useNFT = () => useContext(NFTCtx);
