@@ -1,0 +1,1 @@
+import React from 'react'; import { WorkerComponent } from './Component'; export const WorkerContainer = () => <WorkerComponent />;

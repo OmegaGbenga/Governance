@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { WorkerCtx } from './context'; export const useWorker = () => useContext(WorkerCtx);

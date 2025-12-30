@@ -1,1 +1,1 @@
-export const DEFAULT_WORKER_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
