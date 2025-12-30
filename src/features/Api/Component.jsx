@@ -1,0 +1,1 @@
+import React from 'react'; export const ApiComponent = () => <div>Api</div>;
