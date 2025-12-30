@@ -1,1 +1,1 @@
-test('renders Accounting', () => {});
+import React from 'react'; test('Accounting comp', () => {});
