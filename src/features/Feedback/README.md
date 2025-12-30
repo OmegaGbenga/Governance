@@ -1,3 +1,2 @@
 # Feedback
-
-Documentation for Feedback module.
+Docs for Feedback
