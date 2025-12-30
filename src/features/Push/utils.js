@@ -1,1 +1,1 @@
-export const formatPush = (data) => data;
+export const utils = { format: (x) => x };
