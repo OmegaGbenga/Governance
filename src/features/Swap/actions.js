@@ -1,1 +1,1 @@
-export const initSwap = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_SWAP' };

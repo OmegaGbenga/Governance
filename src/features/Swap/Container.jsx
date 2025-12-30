@@ -1,3 +1,1 @@
-import React from 'react';
-import { SwapComponent } from './Component';
-export const SwapContainer = () => <SwapComponent />;
+import React from 'react'; import { SwapComponent } from './Component'; export const SwapContainer = () => <SwapComponent />;
