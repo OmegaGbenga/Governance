@@ -1,1 +1,1 @@
-export const FAQ_TYPES = {};
+export const TYPES = { name: 'FAQ' };
