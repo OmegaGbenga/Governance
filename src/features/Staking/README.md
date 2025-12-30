@@ -1,0 +1,2 @@
+# Staking
+Docs for Staking

@@ -1,0 +1,1 @@
+import React from 'react'; import { StakingComponent } from './Component'; export const StakingContainer = () => <StakingComponent />;
