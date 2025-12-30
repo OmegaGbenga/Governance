@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const BackupComponent = () => <div className={styles.container}>Backup</div>;
+import React from 'react'; export const BackupComponent = () => <div>Backup</div>;
