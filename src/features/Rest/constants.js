@@ -1,1 +1,1 @@
-export const DEFAULT_REST_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
