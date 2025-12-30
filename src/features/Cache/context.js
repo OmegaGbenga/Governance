@@ -1,2 +1,1 @@
-import React from 'react';
-export const CacheContext = React.createContext();
+import React from 'react'; export const CacheCtx = React.createContext();

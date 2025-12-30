@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { CacheCtx } from './context'; export const useCache = () => useContext(CacheCtx);

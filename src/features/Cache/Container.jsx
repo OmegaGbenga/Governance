@@ -1,3 +1,1 @@
-import React from 'react';
-import { CacheComponent } from './Component';
-export const CacheContainer = () => <CacheComponent />;
+import React from 'react'; import { CacheComponent } from './Component'; export const CacheContainer = () => <CacheComponent />;
