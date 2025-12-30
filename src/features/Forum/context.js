@@ -1,2 +1,1 @@
-import React from 'react';
-export const ForumContext = React.createContext();
+import React from 'react'; export const ForumCtx = React.createContext();
