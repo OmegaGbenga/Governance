@@ -1,1 +1,1 @@
-export const initForum = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_FORUM' };
