@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { MailerContext } from './context';
-export const useMailer = () => useContext(MailerContext);
+import { useContext } from 'react'; import { MailerCtx } from './context'; export const useMailer = () => useContext(MailerCtx);
