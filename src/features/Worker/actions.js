@@ -1,1 +1,1 @@
-export const initWorker = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_WORKER' };
