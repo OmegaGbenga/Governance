@@ -1,1 +1,1 @@
-export const formatTax = (data) => data;
+export const utils = { format: (x) => x };
