@@ -1,1 +1,1 @@
-export const formatTutorial = (data) => data;
+export const utils = { format: (x) => x };
