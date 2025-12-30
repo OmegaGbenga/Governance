@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { PushCtx } from './context'; export const usePush = () => useContext(PushCtx);
