@@ -1,1 +1,1 @@
-test('renders Privacy', () => {});
+import React from 'react'; test('Privacy comp', () => {});
