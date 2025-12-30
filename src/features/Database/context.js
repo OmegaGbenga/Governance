@@ -1,2 +1,1 @@
-import React from 'react';
-export const DatabaseContext = React.createContext();
+import React from 'react'; export const DatabaseCtx = React.createContext();

@@ -1,1 +1,1 @@
-export const DATABASE_TYPES = {};
+export const TYPES = { name: 'Database' };

@@ -1,0 +1,1 @@
+import React from 'react'; import { DatabaseComponent } from './Component'; export const DatabaseContainer = () => <DatabaseComponent />;
