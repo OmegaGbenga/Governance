@@ -1,1 +1,1 @@
-export const DEFAULT_CACHE_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
