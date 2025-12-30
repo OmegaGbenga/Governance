@@ -1,1 +1,1 @@
-test('renders Backup', () => {});
+import React from 'react'; test('Backup comp', () => {});
