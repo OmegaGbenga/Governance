@@ -1,1 +1,1 @@
-export const initRoadmap = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_ROADMAP' };

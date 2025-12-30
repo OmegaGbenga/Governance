@@ -1,1 +1,1 @@
-export const fetchRoadmapData = async () => {};
+export const service = { fetch: () => Promise.resolve() };

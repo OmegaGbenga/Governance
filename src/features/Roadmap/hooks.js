@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { RoadmapContext } from './context';
-export const useRoadmap = () => useContext(RoadmapContext);
+import { useContext } from 'react'; import { RoadmapCtx } from './context'; export const useRoadmap = () => useContext(RoadmapCtx);
