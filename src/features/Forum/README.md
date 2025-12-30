@@ -1,3 +1,2 @@
 # Forum
-
-Documentation for Forum module.
+Docs for Forum
