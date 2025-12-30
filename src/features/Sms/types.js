@@ -1,1 +1,1 @@
-export const SMS_TYPES = {};
+export const TYPES = { name: 'Sms' };
