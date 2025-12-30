@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { HelpContext } from './context';
-export const useHelp = () => useContext(HelpContext);
+import { useContext } from 'react'; import { HelpCtx } from './context'; export const useHelp = () => useContext(HelpCtx);

@@ -1,1 +1,1 @@
-export const initHelp = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_HELP' };

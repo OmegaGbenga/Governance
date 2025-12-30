@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const HelpComponent = () => <div className={styles.container}>Help</div>;
+import React from 'react'; export const HelpComponent = () => <div>Help</div>;

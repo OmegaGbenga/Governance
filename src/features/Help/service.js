@@ -1,1 +1,1 @@
-export const fetchHelpData = async () => {};
+export const service = { fetch: () => Promise.resolve() };

@@ -1,1 +1,1 @@
-export const DEFAULT_HELP_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

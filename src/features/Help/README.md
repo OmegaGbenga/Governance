@@ -1,3 +1,2 @@
 # Help
-
-Documentation for Help module.
+Docs for Help
