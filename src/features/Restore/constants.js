@@ -1,1 +1,1 @@
-export const DEFAULT_RESTORE_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
