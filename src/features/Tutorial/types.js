@@ -1,1 +1,1 @@
-export const TUTORIAL_TYPES = {};
+export const TYPES = { name: 'Tutorial' };

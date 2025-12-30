@@ -1,3 +1,2 @@
 # Tutorial
-
-Documentation for Tutorial module.
+Docs for Tutorial
