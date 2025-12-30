@@ -1,2 +1,1 @@
-import React from 'react';
-export const LoggingContext = React.createContext();
+import React from 'react'; export const LoggingCtx = React.createContext();

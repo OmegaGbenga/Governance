@@ -1,1 +1,1 @@
-export const DEFAULT_LOGGING_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

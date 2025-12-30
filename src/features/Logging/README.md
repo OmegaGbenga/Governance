@@ -1,3 +1,2 @@
 # Logging
-
-Documentation for Logging module.
+Docs for Logging
