@@ -1,1 +1,1 @@
-export const DEFAULT_MONITORING_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
