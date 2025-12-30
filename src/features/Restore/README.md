@@ -1,3 +1,2 @@
 # Restore
-
-Documentation for Restore module.
+Docs for Restore
