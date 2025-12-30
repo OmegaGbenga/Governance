@@ -1,1 +1,1 @@
-export const WORKER_TYPES = {};
+export const TYPES = { name: 'Worker' };
