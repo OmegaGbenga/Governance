@@ -1,3 +1,1 @@
-import React from 'react';
-import { TutorialComponent } from './Component';
-export const TutorialContainer = () => <TutorialComponent />;
+import React from 'react'; import { TutorialComponent } from './Component'; export const TutorialContainer = () => <TutorialComponent />;
