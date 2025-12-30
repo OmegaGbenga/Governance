@@ -1,1 +1,1 @@
-export const SECURITY_TYPES = {};
+export const TYPES = { name: 'Security' };

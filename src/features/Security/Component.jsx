@@ -1,0 +1,1 @@
+import React from 'react'; export const SecurityComponent = () => <div>Security</div>;

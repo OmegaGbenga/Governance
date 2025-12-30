@@ -1,0 +1,1 @@
+export const CONSTANTS = { MAX: 100 };

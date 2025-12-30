@@ -1,3 +1,2 @@
 # Security
-
-Documentation for Security module.
+Docs for Security
