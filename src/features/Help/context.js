@@ -1,2 +1,1 @@
-import React from 'react';
-export const HelpContext = React.createContext();
+import React from 'react'; export const HelpCtx = React.createContext();
