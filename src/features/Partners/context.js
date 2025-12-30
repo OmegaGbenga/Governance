@@ -1,2 +1,1 @@
-import React from 'react';
-export const PartnersContext = React.createContext();
+import React from 'react'; export const PartnersCtx = React.createContext();

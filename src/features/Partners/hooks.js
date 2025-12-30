@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { PartnersContext } from './context';
-export const usePartners = () => useContext(PartnersContext);
+import { useContext } from 'react'; import { PartnersCtx } from './context'; export const usePartners = () => useContext(PartnersCtx);

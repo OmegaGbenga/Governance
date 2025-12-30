@@ -1,1 +1,1 @@
-export const partnersReducer = (state, action) => state;
+export const reducer = (state = {}, action) => { return state; };

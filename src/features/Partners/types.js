@@ -1,1 +1,1 @@
-export const PARTNERS_TYPES = {};
+export const TYPES = { name: 'Partners' };
