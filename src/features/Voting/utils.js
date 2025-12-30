@@ -1,1 +1,1 @@
-export const formatVoting = (data) => data;
+export const utils = { format: (x) => x };

@@ -1,1 +1,1 @@
-export const DEFAULT_VOTING_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

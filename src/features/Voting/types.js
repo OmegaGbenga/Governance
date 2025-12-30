@@ -1,1 +1,1 @@
-export const VOTING_TYPES = {};
+export const TYPES = { name: 'Voting' };

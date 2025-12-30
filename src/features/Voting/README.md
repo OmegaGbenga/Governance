@@ -1,3 +1,2 @@
 # Voting
-
-Documentation for Voting module.
+Docs for Voting
