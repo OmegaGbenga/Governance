@@ -1,1 +1,1 @@
-export const initContact = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_CONTACT' };

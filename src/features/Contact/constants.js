@@ -1,1 +1,1 @@
-export const DEFAULT_CONTACT_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

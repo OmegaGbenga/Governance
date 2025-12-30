@@ -1,1 +1,1 @@
-export const CONTACT_TYPES = {};
+export const TYPES = { name: 'Contact' };

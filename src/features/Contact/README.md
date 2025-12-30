@@ -1,3 +1,2 @@
 # Contact
-
-Documentation for Contact module.
+Docs for Contact

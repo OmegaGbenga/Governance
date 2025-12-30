@@ -1,2 +1,1 @@
-import React from 'react';
-export const ContactContext = React.createContext();
+import React from 'react'; export const ContactCtx = React.createContext();
