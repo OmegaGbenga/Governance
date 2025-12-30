@@ -1,0 +1,1 @@
+import React from 'react'; import { RouterComponent } from './Component'; export const RouterContainer = () => <RouterComponent />;
