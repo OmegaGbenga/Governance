@@ -1,3 +1,2 @@
 # Backup
-
-Documentation for Backup module.
+Docs for Backup

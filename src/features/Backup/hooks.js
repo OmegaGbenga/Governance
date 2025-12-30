@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { BackupContext } from './context';
-export const useBackup = () => useContext(BackupContext);
+import { useContext } from 'react'; import { BackupCtx } from './context'; export const useBackup = () => useContext(BackupCtx);
