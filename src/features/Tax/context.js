@@ -1,2 +1,1 @@
-import React from 'react';
-export const TaxContext = React.createContext();
+import React from 'react'; export const TaxCtx = React.createContext();
