@@ -1,0 +1,1 @@
+import React from 'react'; import { ControllerComponent } from './Component'; export const ControllerContainer = () => <ControllerComponent />;
