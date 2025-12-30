@@ -1,2 +1,1 @@
-import React from 'react';
-export const ReportingContext = React.createContext();
+import React from 'react'; export const ReportingCtx = React.createContext();

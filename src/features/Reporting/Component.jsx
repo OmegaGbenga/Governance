@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const ReportingComponent = () => <div className={styles.container}>Reporting</div>;
+import React from 'react'; export const ReportingComponent = () => <div>Reporting</div>;

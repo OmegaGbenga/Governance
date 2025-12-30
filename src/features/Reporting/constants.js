@@ -1,1 +1,1 @@
-export const DEFAULT_REPORTING_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
