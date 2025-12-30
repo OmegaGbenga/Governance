@@ -1,3 +1,2 @@
 # Privacy
-
-Documentation for Privacy module.
+Docs for Privacy

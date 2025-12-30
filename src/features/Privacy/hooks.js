@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { PrivacyContext } from './context';
-export const usePrivacy = () => useContext(PrivacyContext);
+import { useContext } from 'react'; import { PrivacyCtx } from './context'; export const usePrivacy = () => useContext(PrivacyCtx);

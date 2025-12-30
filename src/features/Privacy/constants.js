@@ -1,1 +1,1 @@
-export const DEFAULT_PRIVACY_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

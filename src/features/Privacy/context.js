@@ -1,2 +1,1 @@
-import React from 'react';
-export const PrivacyContext = React.createContext();
+import React from 'react'; export const PrivacyCtx = React.createContext();

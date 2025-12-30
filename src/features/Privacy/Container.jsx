@@ -1,3 +1,1 @@
-import React from 'react';
-import { PrivacyComponent } from './Component';
-export const PrivacyContainer = () => <PrivacyComponent />;
+import React from 'react'; import { PrivacyComponent } from './Component'; export const PrivacyContainer = () => <PrivacyComponent />;
