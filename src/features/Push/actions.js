@@ -1,1 +1,1 @@
-export const initPush = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_PUSH' };
