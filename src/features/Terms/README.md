@@ -1,3 +1,2 @@
 # Terms
-
-Documentation for Terms module.
+Docs for Terms

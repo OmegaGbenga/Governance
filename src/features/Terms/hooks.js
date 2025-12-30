@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { TermsContext } from './context';
-export const useTerms = () => useContext(TermsContext);
+import { useContext } from 'react'; import { TermsCtx } from './context'; export const useTerms = () => useContext(TermsCtx);

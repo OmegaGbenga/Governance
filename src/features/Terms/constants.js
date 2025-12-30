@@ -1,1 +1,1 @@
-export const DEFAULT_TERMS_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

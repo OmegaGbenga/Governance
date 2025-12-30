@@ -1,2 +1,1 @@
-import React from 'react';
-export const TermsContext = React.createContext();
+import React from 'react'; export const TermsCtx = React.createContext();
