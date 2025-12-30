@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { JobsContext } from './context';
-export const useJobs = () => useContext(JobsContext);
+import { useContext } from 'react'; import { JobsCtx } from './context'; export const useJobs = () => useContext(JobsCtx);
