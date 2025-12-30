@@ -1,1 +1,1 @@
-export const DEFAULT_LEGAL_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
