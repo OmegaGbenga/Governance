@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const RestComponent = () => <div className={styles.container}>Rest</div>;
+import React from 'react'; export const RestComponent = () => <div>Rest</div>;
