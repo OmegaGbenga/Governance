@@ -1,1 +1,1 @@
-export const initSocial = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_SOCIAL' };

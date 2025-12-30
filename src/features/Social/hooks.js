@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { SocialContext } from './context';
-export const useSocial = () => useContext(SocialContext);
+import { useContext } from 'react'; import { SocialCtx } from './context'; export const useSocial = () => useContext(SocialCtx);

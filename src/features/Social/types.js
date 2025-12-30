@@ -1,1 +1,1 @@
-export const SOCIAL_TYPES = {};
+export const TYPES = { name: 'Social' };

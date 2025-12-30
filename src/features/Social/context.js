@@ -1,2 +1,1 @@
-import React from 'react';
-export const SocialContext = React.createContext();
+import React from 'react'; export const SocialCtx = React.createContext();

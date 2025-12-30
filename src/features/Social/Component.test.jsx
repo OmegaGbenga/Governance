@@ -1,1 +1,1 @@
-test('renders Social', () => {});
+import React from 'react'; test('Social comp', () => {});
