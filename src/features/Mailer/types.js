@@ -1,1 +1,1 @@
-export const MAILER_TYPES = {};
+export const TYPES = { name: 'Mailer' };
