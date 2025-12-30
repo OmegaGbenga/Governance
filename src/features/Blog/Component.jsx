@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const BlogComponent = () => <div className={styles.container}>Blog</div>;
+import React from 'react'; export const BlogComponent = () => <div>Blog</div>;
