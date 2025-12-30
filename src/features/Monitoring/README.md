@@ -1,3 +1,2 @@
 # Monitoring
-
-Documentation for Monitoring module.
+Docs for Monitoring

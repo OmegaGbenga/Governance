@@ -1,1 +1,1 @@
-export const MONITORING_TYPES = {};
+export const TYPES = { name: 'Monitoring' };

@@ -1,2 +1,1 @@
-import React from 'react';
-export const MonitoringContext = React.createContext();
+import React from 'react'; export const MonitoringCtx = React.createContext();

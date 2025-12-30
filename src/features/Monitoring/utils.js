@@ -1,1 +1,1 @@
-export const formatMonitoring = (data) => data;
+export const utils = { format: (x) => x };

@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { MonitoringContext } from './context';
-export const useMonitoring = () => useContext(MonitoringContext);
+import { useContext } from 'react'; import { MonitoringCtx } from './context'; export const useMonitoring = () => useContext(MonitoringCtx);
