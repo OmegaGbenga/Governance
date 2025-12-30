@@ -1,1 +1,1 @@
-export const fetchPrivacyData = async () => {};
+export const service = { fetch: () => Promise.resolve() };
