@@ -1,1 +1,1 @@
-export const DEFAULT_TEAM_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
