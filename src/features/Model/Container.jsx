@@ -1,0 +1,1 @@
+import React from 'react'; import { ModelComponent } from './Component'; export const ModelContainer = () => <ModelComponent />;
