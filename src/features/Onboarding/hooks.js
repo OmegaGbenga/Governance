@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { OnboardingContext } from './context';
-export const useOnboarding = () => useContext(OnboardingContext);
+import { useContext } from 'react'; import { OnboardingCtx } from './context'; export const useOnboarding = () => useContext(OnboardingCtx);
