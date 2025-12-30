@@ -1,3 +1,2 @@
 # Accounting
-
-Documentation for Accounting module.
+Docs for Accounting
