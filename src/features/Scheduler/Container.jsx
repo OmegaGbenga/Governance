@@ -1,3 +1,1 @@
-import React from 'react';
-import { SchedulerComponent } from './Component';
-export const SchedulerContainer = () => <SchedulerComponent />;
+import React from 'react'; import { SchedulerComponent } from './Component'; export const SchedulerContainer = () => <SchedulerComponent />;
