@@ -1,1 +1,1 @@
-export const REPORTING_TYPES = {};
+export const TYPES = { name: 'Reporting' };
