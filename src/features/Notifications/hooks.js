@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { NotificationsCtx } from './context'; export const useNotifications = () => useContext(NotificationsCtx);
