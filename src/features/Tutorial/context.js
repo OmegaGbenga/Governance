@@ -1,2 +1,1 @@
-import React from 'react';
-export const TutorialContext = React.createContext();
+import React from 'react'; export const TutorialCtx = React.createContext();
