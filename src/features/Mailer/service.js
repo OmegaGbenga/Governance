@@ -1,1 +1,1 @@
-export const fetchMailerData = async () => {};
+export const service = { fetch: () => Promise.resolve() };
