@@ -1,1 +1,1 @@
-export const FEEDBACK_TYPES = {};
+export const TYPES = { name: 'Feedback' };
