@@ -1,1 +1,1 @@
-export const DEFAULT_FAQ_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

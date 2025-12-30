@@ -1,3 +1,2 @@
 # FAQ
-
-Documentation for FAQ module.
+Docs for FAQ
