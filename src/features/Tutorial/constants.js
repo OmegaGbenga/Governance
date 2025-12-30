@@ -1,1 +1,1 @@
-export const DEFAULT_TUTORIAL_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
