@@ -1,3 +1,2 @@
 # Social
-
-Documentation for Social module.
+Docs for Social
