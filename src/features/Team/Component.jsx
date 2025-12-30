@@ -1,3 +1,1 @@
-import React from 'react';
-import styles from './styles.module.css';
-export const TeamComponent = () => <div className={styles.container}>Team</div>;
+import React from 'react'; export const TeamComponent = () => <div>Team</div>;
