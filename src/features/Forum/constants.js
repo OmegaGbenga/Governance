@@ -1,1 +1,1 @@
-export const DEFAULT_FORUM_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
