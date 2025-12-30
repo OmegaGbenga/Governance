@@ -1,0 +1,1 @@
+import { useContext } from 'react'; import { ViewCtx } from './context'; export const useView = () => useContext(ViewCtx);

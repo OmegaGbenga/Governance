@@ -1,0 +1,1 @@
+import React from 'react'; import { ViewComponent } from './Component'; export const ViewContainer = () => <ViewComponent />;
