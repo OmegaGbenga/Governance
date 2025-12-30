@@ -1,3 +1,2 @@
 # Blog
-
-Documentation for Blog module.
+Docs for Blog

@@ -1,1 +1,1 @@
-test('renders Blog', () => {});
+import React from 'react'; test('Blog comp', () => {});

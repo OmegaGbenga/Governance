@@ -1,1 +1,1 @@
-export const BLOG_TYPES = {};
+export const TYPES = { name: 'Blog' };
