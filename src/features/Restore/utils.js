@@ -1,1 +1,1 @@
-export const formatRestore = (data) => data;
+export const utils = { format: (x) => x };
