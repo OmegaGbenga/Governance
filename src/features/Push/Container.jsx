@@ -1,0 +1,1 @@
+import React from 'react'; import { PushComponent } from './Component'; export const PushContainer = () => <PushComponent />;
