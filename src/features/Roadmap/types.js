@@ -1,1 +1,1 @@
-export const ROADMAP_TYPES = {};
+export const TYPES = { name: 'Roadmap' };
