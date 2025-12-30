@@ -1,2 +1,1 @@
-import React from 'react';
-export const TeamContext = React.createContext();
+import React from 'react'; export const TeamCtx = React.createContext();

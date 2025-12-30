@@ -1,1 +1,1 @@
-export const initTeam = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_TEAM' };

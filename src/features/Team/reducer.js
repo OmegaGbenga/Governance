@@ -1,1 +1,1 @@
-export const teamReducer = (state, action) => state;
+export const reducer = (state = {}, action) => { return state; };
