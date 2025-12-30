@@ -1,1 +1,1 @@
-export const GRAPHQL_TYPES = {};
+export const TYPES = { name: 'Graphql' };

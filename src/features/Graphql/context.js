@@ -1,2 +1,1 @@
-import React from 'react';
-export const GraphqlContext = React.createContext();
+import React from 'react'; export const GraphqlCtx = React.createContext();

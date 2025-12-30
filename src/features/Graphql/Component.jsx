@@ -1,0 +1,1 @@
+import React from 'react'; export const GraphqlComponent = () => <div>Graphql</div>;
