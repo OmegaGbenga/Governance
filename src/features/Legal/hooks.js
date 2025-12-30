@@ -1,3 +1,1 @@
-import { useContext } from 'react';
-import { LegalContext } from './context';
-export const useLegal = () => useContext(LegalContext);
+import { useContext } from 'react'; import { LegalCtx } from './context'; export const useLegal = () => useContext(LegalCtx);
