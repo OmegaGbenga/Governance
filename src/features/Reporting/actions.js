@@ -1,1 +1,1 @@
-export const initReporting = () => ({ type: 'INIT' });
+export const actions = { init: 'INIT_REPORTING' };
