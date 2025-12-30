@@ -1,1 +1,1 @@
-export const DEFAULT_JOBS_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

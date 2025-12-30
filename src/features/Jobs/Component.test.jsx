@@ -1,1 +1,1 @@
-test('renders Jobs', () => {});
+import React from 'react'; test('Jobs comp', () => {});
