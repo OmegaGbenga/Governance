@@ -1,1 +1,1 @@
-export const formatApi = (data) => data;
+export const utils = { format: (x) => x };
