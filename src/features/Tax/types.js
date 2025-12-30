@@ -1,1 +1,1 @@
-export const TAX_TYPES = {};
+export const TYPES = { name: 'Tax' };
