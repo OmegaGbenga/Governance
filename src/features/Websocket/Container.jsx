@@ -1,0 +1,1 @@
+import React from 'react'; import { WebsocketComponent } from './Component'; export const WebsocketContainer = () => <WebsocketComponent />;

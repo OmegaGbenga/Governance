@@ -1,1 +1,1 @@
-export const WEBSOCKET_TYPES = {};
+export const TYPES = { name: 'Websocket' };

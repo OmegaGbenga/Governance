@@ -1,1 +1,1 @@
-export const DEFAULT_WEBSOCKET_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };

@@ -1,0 +1,1 @@
+export const service = { fetch: () => Promise.resolve() };
