@@ -1,1 +1,1 @@
-export const DEFAULT_BACKUP_CONFIG = {};
+export const CONSTANTS = { MAX: 100 };
