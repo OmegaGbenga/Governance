@@ -1,2 +1,1 @@
-import React from 'react';
-export const BlogContext = React.createContext();
+import React from 'react'; export const BlogCtx = React.createContext();
