@@ -1,1 +1,1 @@
-export const RESTORE_TYPES = {};
+export const TYPES = { name: 'Restore' };
