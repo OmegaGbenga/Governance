@@ -1,0 +1,1 @@
+import React from 'react'; import { RewardsComponent } from './Component'; export const RewardsContainer = () => <RewardsComponent />;
